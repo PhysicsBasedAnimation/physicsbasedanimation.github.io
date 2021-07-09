@@ -1,3 +1,6 @@
+Physics-based Animation Each Weekend Tutorial Series
+====================================================================================================
+
 Introduction
 ---------------
 This is just the start of a pet project of mine to teach others a bit about physics-based animation.  Since physics-based animation covers different areas, I thought I'd aim to break down a project tutorial that could be done in a weekend.  I don't claim to be an expert on this subject though I did study this in school and it was a huge interest of mine, but I warn that mistakes will be made or explanations flubbed.  This project is more just for fun for me because I enjoy this area of computer graphics.
